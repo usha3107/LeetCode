@@ -24,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/usha3107/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
