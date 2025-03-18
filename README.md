@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/usha3107/LeetCode/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/usha3107/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/usha3107/LeetCode/tree/master/0661-image-smoother) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
