@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/usha3107/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/usha3107/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/usha3107/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/usha3107/LeetCode/tree/master/0742-to-lower-case) |
+| [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/usha3107/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
+| [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
