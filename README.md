@@ -88,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/usha3107/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
