@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/usha3107/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/usha3107/LeetCode/tree/master/0742-to-lower-case) |
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 ## Tree
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/usha3107/LeetCode/tree/master/0898-transpose-matrix) |
+| [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+## Hash Table
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 <!---LeetCode Topics End-->
