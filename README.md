@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/usha3107/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/usha3107/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/usha3107/LeetCode/tree/master/0742-to-lower-case) |
+| [0749-shortest-completing-word](https://github.com/usha3107/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/usha3107/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/usha3107/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/usha3107/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0749-shortest-completing-word](https://github.com/usha3107/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/usha3107/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/usha3107/LeetCode/tree/master/0861-flipping-an-image) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0749-shortest-completing-word](https://github.com/usha3107/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/usha3107/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 ## Binary Search Tree
