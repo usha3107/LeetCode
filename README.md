@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/usha3107/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/usha3107/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/usha3107/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/usha3107/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/usha3107/LeetCode/tree/master/0816-design-hashset) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/usha3107/LeetCode/tree/master/0816-design-hashset) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/usha3107/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
