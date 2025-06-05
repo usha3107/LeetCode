@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/usha3107/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/usha3107/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/usha3107/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/usha3107/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/usha3107/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/usha3107/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/usha3107/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
 |  |
 | ------- |
