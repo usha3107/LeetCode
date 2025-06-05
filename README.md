@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/usha3107/LeetCode/tree/master/0944-smallest-range-i) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/usha3107/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/usha3107/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Simulation
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/usha3107/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
