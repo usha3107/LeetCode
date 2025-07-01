@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/usha3107/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3617-find-the-original-typed-string-i](https://github.com/usha3107/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/usha3107/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Tree
 |  |
