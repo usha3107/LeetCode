@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/usha3107/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/usha3107/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/usha3107/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/usha3107/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 ## Union Find
 |  |
 | ------- |
