@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/usha3107/LeetCode/tree/master/0944-smallest-range-i) |
+| [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/usha3107/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3201-distribute-candies-among-children-ii](https://github.com/usha3107/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/usha3107/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -292,9 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/usha3107/LeetCode/tree/master/0257-binary-tree-paths) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
