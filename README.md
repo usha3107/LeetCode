@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/usha3107/LeetCode/tree/master/0135-candy) |
 | [0303-range-sum-query-immutable](https://github.com/usha3107/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/usha3107/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/usha3107/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
