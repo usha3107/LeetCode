@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/usha3107/LeetCode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/usha3107/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0919-projection-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/usha3107/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/usha3107/LeetCode/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/usha3107/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/usha3107/LeetCode/tree/master/0861-flipping-an-image) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/usha3107/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
