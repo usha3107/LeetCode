@@ -111,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/usha3107/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/usha3107/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
+| [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/usha3107/LeetCode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/usha3107/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/usha3107/LeetCode/tree/master/0944-smallest-range-i) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/usha3107/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/usha3107/LeetCode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/usha3107/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search Tree
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/usha3107/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/usha3107/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
