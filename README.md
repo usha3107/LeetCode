@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/usha3107/LeetCode/tree/master/0944-smallest-range-i) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/usha3107/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/usha3107/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1965-sum-of-digits-in-base-k](https://github.com/usha3107/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2383-add-two-integers](https://github.com/usha3107/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/usha3107/LeetCode/tree/master/2491-smallest-even-multiple) |
