@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/usha3107/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/usha3107/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/usha3107/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search Tree
 |  |
