@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/usha3107/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/usha3107/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/usha3107/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Breadth-First Search
 |  |
 | ------- |
