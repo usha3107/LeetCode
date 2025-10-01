@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/usha3107/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/usha3107/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/usha3107/LeetCode/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/usha3107/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/usha3107/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/usha3107/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1642-water-bottles](https://github.com/usha3107/LeetCode/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/usha3107/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2383-add-two-integers](https://github.com/usha3107/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/usha3107/LeetCode/tree/master/2491-smallest-even-multiple) |
