@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/usha3107/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/usha3107/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/usha3107/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/usha3107/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/usha3107/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/usha3107/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/usha3107/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/usha3107/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/usha3107/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/usha3107/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/usha3107/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search Tree
 |  |
 | ------- |
