@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/usha3107/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4008-restore-finishing-order](https://github.com/usha3107/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/usha3107/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4008-restore-finishing-order](https://github.com/usha3107/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Binary Search Tree
 |  |
 | ------- |
