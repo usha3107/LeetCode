@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/usha3107/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1791-richest-customer-wealth](https://github.com/usha3107/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/usha3107/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/usha3107/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/usha3107/LeetCode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/usha3107/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
+| [1791-richest-customer-wealth](https://github.com/usha3107/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Stack
 |  |
 | ------- |
