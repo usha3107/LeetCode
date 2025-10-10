@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/usha3107/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/usha3107/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1205-defanging-an-ip-address](https://github.com/usha3107/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/usha3107/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/usha3107/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/usha3107/LeetCode/tree/master/3194-find-words-containing-character) |
