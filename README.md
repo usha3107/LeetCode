@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/usha3107/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/usha3107/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/usha3107/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/usha3107/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/usha3107/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/usha3107/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/usha3107/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/usha3107/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/usha3107/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/usha3107/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/usha3107/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/usha3107/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/usha3107/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Breadth-First Search
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/usha3107/LeetCode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/usha3107/LeetCode/tree/master/0899-binary-gap) |
 | [1610-xor-operation-in-an-array](https://github.com/usha3107/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/usha3107/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1044-find-common-characters](https://github.com/usha3107/LeetCode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/usha3107/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/usha3107/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2442-number-of-arithmetic-triplets](https://github.com/usha3107/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usha3107/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/usha3107/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
