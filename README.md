@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/usha3107/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [4008-restore-finishing-order](https://github.com/usha3107/LeetCode/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/usha3107/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/usha3107/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usha3107/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usha3107/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/usha3107/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Matrix
 |  |
 | ------- |
