@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usha3107/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/usha3107/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/usha3107/LeetCode/tree/master/1642-water-bottles) |
+| [1952-three-divisors](https://github.com/usha3107/LeetCode/tree/master/1952-three-divisors) |
 | [1965-sum-of-digits-in-base-k](https://github.com/usha3107/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2383-add-two-integers](https://github.com/usha3107/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/usha3107/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1952-three-divisors](https://github.com/usha3107/LeetCode/tree/master/1952-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/usha3107/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/usha3107/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/usha3107/LeetCode/tree/master/1952-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/usha3107/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Primality Test
 |  |
@@ -422,8 +425,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/usha3107/LeetCode/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/usha3107/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
