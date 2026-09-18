@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/usha3107/LeetCode/tree/master/0135-candy) |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/usha3107/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/usha3107/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/usha3107/LeetCode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/usha3107/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/usha3107/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/usha3107/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usha3107/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/usha3107/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -409,5 +412,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/usha3107/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
