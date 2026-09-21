@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/usha3107/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/usha3107/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/usha3107/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/usha3107/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/usha3107/LeetCode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/usha3107/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/usha3107/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/usha3107/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/usha3107/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/usha3107/LeetCode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/usha3107/LeetCode/tree/master/0728-self-dividing-numbers) |
