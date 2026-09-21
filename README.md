@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/usha3107/LeetCode/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/usha3107/LeetCode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/usha3107/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/usha3107/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/usha3107/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/usha3107/LeetCode/tree/master/0561-array-partition) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/usha3107/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/usha3107/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/usha3107/LeetCode/tree/master/0724-find-pivot-index) |
 ## Database
