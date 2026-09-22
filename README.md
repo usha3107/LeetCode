@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/usha3107/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/usha3107/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/usha3107/LeetCode/tree/master/0189-rotate-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/usha3107/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/usha3107/LeetCode/tree/master/0118-pascals-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/usha3107/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/usha3107/LeetCode/tree/master/1013-fibonacci-number) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/usha3107/LeetCode/tree/master/1952-three-divisors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/usha3107/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
